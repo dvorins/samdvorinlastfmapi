@@ -6,4 +6,4 @@ ARTIST SEARCH API VIA LAST.FM
 - If the artist name you put in is not in the database, one of a random name from the names.json file will be chosen
 
 
--the app will not work into a filepath has been given for the csv
+-the app will not work until a filepath has been given for the csv
