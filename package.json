@@ -1,0 +1,21 @@
+{
+  "name": "last-fm-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
